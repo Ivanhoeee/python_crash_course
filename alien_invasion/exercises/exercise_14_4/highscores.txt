@@ -1,0 +1,13 @@
+Username,Score
+ivan,50
+urbietorbi,1550
+konjina,1100
+tatamata,1550
+majkl,1200
+hrenovko,50
+yoyo,800
+klokan,750
+alija,1650
+tomo,950
+oooo,350
+popa,1350

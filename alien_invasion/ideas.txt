@@ -1,0 +1,4 @@
+1. make a new type of allien appear that moves differently then the rest
+2. grant super powers like multiple bullets or bigger bullets
+3. import an image for bullets
+4. every time you lose a life make an image appear (kim jung un saying something) with some text

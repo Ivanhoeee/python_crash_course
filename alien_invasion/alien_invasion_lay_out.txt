@@ -1,0 +1,11 @@
+Set up of alien invasion
+
+0: Adjust the game to dick invasion, instead of aliens there are dicks 
+attacking the planet. 
+
+1. run_game(): initializes the game and creates a screen
+
+2. settings class: allows us to pass the settings object and change it 
+   more easily. 
+   
+3. 
